@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Spring,Hibernate and RestApi**
 
-- 👨‍💻 All of my projects are available at [https://avinashkumar-06.github.io/](https://avinashkumar-06.github.io/)
+- 👨‍💻 All of my projects are available at [https://deepanshu-deep.github.io/](https://deepanshu-deep.github.io/)
 
 - 💬 Ask me about **Backend,Java,Spring,SQL**
 
