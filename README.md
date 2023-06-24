@@ -25,9 +25,8 @@
 <br>
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/deepanshu-deep-8969a0242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu deep" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-deep-8969a0242/)&nbsp;
+
 
 <br>
 
