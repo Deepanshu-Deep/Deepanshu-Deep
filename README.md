@@ -14,7 +14,7 @@
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/Deepanshu-Deep?tab=repositories).
 <br>
-👨🏻‍🎓 Have a look at my [Portfolio](https://Deepanshu-Deep.github.io/).
+👨🏻‍🎓 Have a look at my Portfolio (https://Deepanshu-Deep.github.io/).
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1XsTiQcPI2i9BQhc4rzQULiccFCRXNWDo/view?usp=sharing).
 <br>
